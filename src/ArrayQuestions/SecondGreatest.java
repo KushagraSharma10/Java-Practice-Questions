@@ -12,11 +12,11 @@ public class SecondGreatest {
         int secondHighest = 0;
         int highest = 1;
 
-        for (int i = 0; i < arr.length ; i++) {
+        for (int i = 0; i < arr.length; i++) {
 
             arr[i] = sc.nextInt();
 
-            if(arr[i] > arr[highest]){
+            if (arr[i] > arr[highest]) {
                 secondHighest = highest;
                 highest = i;
             } else if (arr[i] > secondHighest && arr[i] < highest) {

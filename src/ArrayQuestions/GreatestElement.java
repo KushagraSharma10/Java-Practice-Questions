@@ -13,7 +13,7 @@ public class GreatestElement {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = sc.nextInt();
 
-            if(arr[i] > arr[greatest]){
+            if (arr[i] > arr[greatest]) {
                 greatest = i;
             }
         }

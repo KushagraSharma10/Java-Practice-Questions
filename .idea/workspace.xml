@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="Reversing an Array, Solution is added">
-      <change afterPath="$PROJECT_DIR$/src/ArrayQuestions/ArrayRotationByK.java" afterDir="false" />
+    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="Solution of Array Rotation By K elements.">
+      <change afterPath="$PROJECT_DIR$/src/ArrayQuestions/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,7 @@
     "Application.ArrayRotationByK.executor": "Run",
     "Application.GreatestElement.executor": "Debug",
     "Application.IsArraySorted.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ReverseArray.executor": "Run",
     "Application.SecondGreatest.executor": "Run",
@@ -111,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746446348035</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Solution of Array Rotation By K elements.">
+      <option name="closed" value="true" />
+      <created>1746446860408</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746446860408</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -120,7 +130,8 @@
     <MESSAGE value="Second Greatest Element Question and  solution is added" />
     <MESSAGE value="Is Array Sorted or not, solution is added" />
     <MESSAGE value="Reversing an Array, Solution is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reversing an Array, Solution is added" />
+    <MESSAGE value="Solution of Array Rotation By K elements." />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution of Array Rotation By K elements." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -139,6 +150,11 @@
           <url>file://$PROJECT_DIR$/src/ArrayQuestions/ReverseArray.java</url>
           <line>12</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayQuestions/ArrayRotationByK.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
