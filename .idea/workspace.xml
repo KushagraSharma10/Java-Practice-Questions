@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="GreatestElement question is added">
+    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="GreatestElement solution is added">
+      <change afterPath="$PROJECT_DIR$/src/ArrayQuestions/SecondGreatest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayQuestions/GreatestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQuestions/GreatestElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,9 @@
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2wfoFaXhAiU93CVACNxn7f4d3Es" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,6 +53,7 @@
   "keyToString": {
     "Application.GreatestElement.executor": "Debug",
     "Application.Main.executor": "Run",
+    "Application.SecondGreatest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -74,12 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1746442419584</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="GreatestElement solution is added">
+      <option name="closed" value="true" />
+      <created>1746443298802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746443298802</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="GreatestElement question is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="GreatestElement question is added" />
+    <MESSAGE value="GreatestElement solution is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="GreatestElement solution is added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
