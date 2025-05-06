@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="Solution of Array Rotation By K elements.">
-      <change afterPath="$PROJECT_DIR$/src/ArrayQuestions/LinearSearch.java" afterDir="false" />
+    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="Linear Search is added.">
+      <change afterPath="$PROJECT_DIR$/src/ArrayQuestions/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,24 +24,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KushagraSharma10"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KushagraSharma10&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KushagraSharma10/Java-Practice-Questions.git",
-    "accountId": "adbc5369-b26c-4d61-8660-3296dcd7f951"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KushagraSharma10/Java-Practice-Questions.git&quot;,
+    &quot;accountId&quot;: &quot;adbc5369-b26c-4d61-8660-3296dcd7f951&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2wfoFaXhAiU93CVACNxn7f4d3Es" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,15 +53,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayRotationByK.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
     "Application.GreatestElement.executor": "Debug",
     "Application.IsArraySorted.executor": "Run",
-    "Application.LinearSearch.executor": "Run",
+    "Application.LinearSearch.executor": "Debug",
     "Application.Main.executor": "Run",
     "Application.ReverseArray.executor": "Run",
     "Application.SecondGreatest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sharm/OneDrive/Desktop/Java_Practice",
     "onboarding.tips.debug.path": "C:/Users/sharm/OneDrive/Desktop/Java_Practice/src/Main.java"
   }
 }]]></component>
@@ -121,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746446860408</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Linear Search is added.">
+      <option name="closed" value="true" />
+      <created>1746447427241</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746447427241</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -131,7 +142,8 @@
     <MESSAGE value="Is Array Sorted or not, solution is added" />
     <MESSAGE value="Reversing an Array, Solution is added" />
     <MESSAGE value="Solution of Array Rotation By K elements." />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution of Array Rotation By K elements." />
+    <MESSAGE value="Linear Search is added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Linear Search is added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
