@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="Solution of question move zeros to end is added.">
+    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="second method of solving the question move zeros to end is added.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayQuestions/MoveZerosToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQuestions/MoveZerosToEnd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746701832229</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="second method of solving the question move zeros to end is added.">
+      <option name="closed" value="true" />
+      <created>1746702671064</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746702671064</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,7 +169,8 @@
     <MESSAGE value="Linear Search is added." />
     <MESSAGE value="Binary Search is added." />
     <MESSAGE value="Solution of question move zeros to end is added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution of question move zeros to end is added." />
+    <MESSAGE value="second method of solving the question move zeros to end is added." />
+    <option name="LAST_COMMIT_MESSAGE" value="second method of solving the question move zeros to end is added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -184,6 +194,11 @@
           <url>file://$PROJECT_DIR$/src/ArrayQuestions/ArrayRotationByK.java</url>
           <line>20</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayQuestions/MoveZerosToEnd.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

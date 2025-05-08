@@ -49,6 +49,6 @@ public class MoveZerosToEnd {
             }
         }
 
-        System.out.println(Arrays.toString(arr));
+        System.out.print("The output: "+ Arrays.toString(arr));
     }
 }
