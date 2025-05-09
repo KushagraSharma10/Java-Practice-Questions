@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="Bubble sort is added.">
-      <change afterPath="$PROJECT_DIR$/src/ArrayQuestions/ConcatenateArrays.java" afterDir="false" />
+    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="Solution of question ConcatenateArrays is added.">
+      <change afterPath="$PROJECT_DIR$/src/ArrayQuestions/BuildArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Application.ArrayRotationByK.executor": "Run",
     "Application.BinarySearch.executor": "Run",
     "Application.BubbleSort.executor": "Run",
+    "Application.BuildArray.executor": "Run",
     "Application.ConcatenateArrays.executor": "Run",
     "Application.GreatestElement.executor": "Debug",
     "Application.IsArraySorted.executor": "Run",
@@ -174,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746704760306</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Solution of question ConcatenateArrays is added.">
+      <option name="closed" value="true" />
+      <created>1746707687054</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746707687054</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -189,7 +198,8 @@
     <MESSAGE value="Solution of question move zeros to end is added." />
     <MESSAGE value="second method of solving the question move zeros to end is added." />
     <MESSAGE value="Bubble sort is added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Bubble sort is added." />
+    <MESSAGE value="Solution of question ConcatenateArrays is added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution of question ConcatenateArrays is added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
