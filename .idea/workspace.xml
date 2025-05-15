@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="Basic Question folder is created and one question is added inside it">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayQuestions/ContainsDuplicate.java" afterDir="false" />
+    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="Contains Duplicate Question is added and method 2 using set is added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayQuestions/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQuestions/ContainsDuplicate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747303371180</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Contains Duplicate Question is added and method 1 is added">
+      <option name="closed" value="true" />
+      <created>1747308214709</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1747308214709</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -239,7 +246,9 @@
     <MESSAGE value="Solution of question Build Array is added." />
     <MESSAGE value="Solution of question UpdateArray is added." />
     <MESSAGE value="Basic Question folder is created and one question is added inside it" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic Question folder is created and one question is added inside it" />
+    <MESSAGE value="Contains Duplicate Question is added and method 1 is added" />
+    <MESSAGE value="Contains Duplicate Question is added and method 2 using set is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contains Duplicate Question is added and method 2 using set is added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -276,12 +285,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ArrayQuestions/ContainsDuplicate.java</url>
-          <line>8</line>
+          <line>10</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ArrayQuestions/ContainsDuplicate.java</url>
-          <line>16</line>
+          <line>19</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
