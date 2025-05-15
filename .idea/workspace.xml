@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="Solution of question Build Array is added.">
-      <change afterPath="$PROJECT_DIR$/src/ArrayQuestions/UpdateArray.java" afterDir="false" />
+    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="Solution of question UpdateArray is added.">
+      <change afterPath="$PROJECT_DIR$/src/BasicQuestions/FrequencyOfNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Application.BubbleSort.executor": "Run",
     "Application.BuildArray.executor": "Run",
     "Application.ConcatenateArrays.executor": "Run",
+    "Application.FrequencyOfNum.executor": "Run",
     "Application.GreatestElement.executor": "Debug",
     "Application.IsArraySorted.executor": "Run",
     "Application.LinearSearch.executor": "Debug",
@@ -192,7 +193,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746789482645</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Solution of question UpdateArray is added.">
+      <option name="closed" value="true" />
+      <created>1746793532493</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746793532493</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Solution of question UpdateArray is added.">
+      <option name="closed" value="true" />
+      <created>1746793583189</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1746793583189</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -209,7 +226,8 @@
     <MESSAGE value="Bubble sort is added." />
     <MESSAGE value="Solution of question ConcatenateArrays is added." />
     <MESSAGE value="Solution of question Build Array is added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution of question Build Array is added." />
+    <MESSAGE value="Solution of question UpdateArray is added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution of question UpdateArray is added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
