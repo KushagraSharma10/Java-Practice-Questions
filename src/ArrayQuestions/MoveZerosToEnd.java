@@ -10,7 +10,7 @@ public class MoveZerosToEnd {
         int n = sc.nextInt();
         int[] arr = new int[n];
 
-        for (int i = 0; i <arr.length ; i++) {
+        for (int i = 0; i < arr.length; i++) {
             arr[i] = sc.nextInt();
         }
 
@@ -33,15 +33,15 @@ public class MoveZerosToEnd {
         // Method 2 without using extra space
 
         int j = 0;
-        for (int i = 0; i <n ; i++) {
-            if(arr[i] == 0){
+        for (int i = 0; i < n; i++) {
+            if (arr[i] == 0) {
                 j = i;
                 break;
             }
         }
 
-        for (int i = j+1; i <n ; i++) {
-            if(arr[i] != 0){
+        for (int i = j + 1; i < n; i++) {
+            if (arr[i] != 0) {
                 int temp = arr[i];
                 arr[i] = arr[j];
                 arr[j] = temp;
@@ -49,6 +49,6 @@ public class MoveZerosToEnd {
             }
         }
 
-        System.out.print("The output: "+ Arrays.toString(arr));
+        System.out.print("The output: " + Arrays.toString(arr));
     }
 }

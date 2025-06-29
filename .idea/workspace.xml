@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="Contains Duplicate Question is added and method 2 using set is added">
-      <change afterPath="$PROJECT_DIR$/src/ArrayQuestions/MaxConsecutiveOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicQuestions/DecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringQuestions/ValidAnagram.java" afterDir="false" />
+    <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="Decimal to Binary and maxConsecutiveOnes is added and method 2 using set is added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayQuestions/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQuestions/ContainsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayQuestions/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQuestions/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayQuestions/MoveZerosToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQuestions/MoveZerosToEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicQuestions/DecimalToBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicQuestions/DecimalToBinary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -66,7 +65,7 @@
     &quot;Application.IsArraySorted.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinearSearch.executor&quot;: &quot;Debug&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveZerosToEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZerosToEnd.executor&quot;: &quot;Debug&quot;,
     &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.SecondGreatest.executor&quot;: &quot;Run&quot;,
     &quot;Application.UpdateArray.executor&quot;: &quot;Run&quot;,
@@ -74,9 +73,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;idea.background.frame&quot;: &quot;C:\\Users\\sharm\\Downloads\\bg-image.jpg,9,scale,center&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/sharm/OneDrive/Desktop/Java_Practice&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/sharm/OneDrive/Desktop/Java_Practice/src/Main.java&quot;
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/sharm/OneDrive/Desktop/Java_Practice/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -240,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747308909730</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Decimal to Binary and maxConsecutiveOnes is added and method 2 using set is added">
+      <option name="closed" value="true" />
+      <created>1751171156571</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1751171156571</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,7 +270,8 @@
     <MESSAGE value="Basic Question folder is created and one question is added inside it" />
     <MESSAGE value="Contains Duplicate Question is added and method 1 is added" />
     <MESSAGE value="Contains Duplicate Question is added and method 2 using set is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Contains Duplicate Question is added and method 2 using set is added" />
+    <MESSAGE value="Decimal to Binary and maxConsecutiveOnes is added and method 2 using set is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decimal to Binary and maxConsecutiveOnes is added and method 2 using set is added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -287,11 +297,6 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ArrayQuestions/MoveZerosToEnd.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ArrayQuestions/UpdateArray.java</url>
           <line>10</line>
           <option name="timeStamp" value="8" />
@@ -305,6 +310,21 @@
           <url>file://$PROJECT_DIR$/src/ArrayQuestions/ContainsDuplicate.java</url>
           <line>19</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BasicQuestions/DecimalToBinary.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayQuestions/MoveZerosToEnd.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayQuestions/MoveZerosToEnd.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

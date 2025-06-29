@@ -10,21 +10,21 @@ public class BinarySearch {
         System.out.print("Enter the number you want to find in array: ");
         int target = sc.nextInt();
         int[] arr = new int[n];
-        for(int i = 0; i<n; i++){
+        for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
 
-        System.out.println( "The Target is found at index of "+ binarySearch(arr,target));
+        System.out.println("The Target is found at index of " + binarySearch(arr, target));
 
     }
 
-    public static int  binarySearch(int[] arr, int target){
+    public static int binarySearch(int[] arr, int target) {
 
         int start = 0, end = arr.length - 1;
-        while(start <= end){
+        while (start <= end) {
             int mid = (start + end) / 2;
-            if(arr[mid] == target) return mid;
-            else if(arr[mid] > target) end = mid-1;
+            if (arr[mid] == target) return mid;
+            else if (arr[mid] > target) end = mid - 1;
             else start = mid + 1;
 
         }
