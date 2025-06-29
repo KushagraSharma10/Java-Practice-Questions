@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b461985-0c59-4872-85a8-0c8c278c2e93" name="Changes" comment="Contains Duplicate Question is added and method 2 using set is added">
+      <change afterPath="$PROJECT_DIR$/src/ArrayQuestions/MaxConsecutiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicQuestions/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringQuestions/ValidAnagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayQuestions/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQuestions/ContainsDuplicate.java" afterDir="false" />
     </list>
@@ -49,31 +52,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayRotationByK.executor": "Run",
-    "Application.BinarySearch.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.BuildArray.executor": "Run",
-    "Application.ConcatenateArrays.executor": "Run",
-    "Application.ContainsDuplicate.executor": "Run",
-    "Application.FrequencyOfNum.executor": "Run",
-    "Application.GreatestElement.executor": "Debug",
-    "Application.IsArraySorted.executor": "Run",
-    "Application.LinearSearch.executor": "Debug",
-    "Application.Main.executor": "Run",
-    "Application.MoveZerosToEnd.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.SecondGreatest.executor": "Run",
-    "Application.UpdateArray.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sharm/OneDrive/Desktop/Java_Practice",
-    "onboarding.tips.debug.path": "C:/Users/sharm/OneDrive/Desktop/Java_Practice/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayRotationByK.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuildArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcatenateArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainsDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecimalToBinary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrequencyOfNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreatestElement.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.IsArraySorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZerosToEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondGreatest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UpdateArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sharm/OneDrive/Desktop/Java_Practice&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/sharm/OneDrive/Desktop/Java_Practice/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -227,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747308214709</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Contains Duplicate Question is added and method 2 using set is added">
+      <option name="closed" value="true" />
+      <created>1747308909730</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1747308909730</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

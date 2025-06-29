@@ -35,6 +35,7 @@ public class ContainsDuplicate {
             if(arr.contains(num)) return true;
             arr.add(num);
         }
+
         return false;
     }
 }
